@@ -1,0 +1,16 @@
+Quang Anh needs to pay Hieu: 2000K
+Nhan needs to pay Hieu: 2500K
+Nhan needs to pay Quang Anh: 1000K
+Ngoc needs to pay Hieu: 200K
+Ngoc needs to pay Quang Anh: 500K
+Phuong needs to pay Quang Anh: 1600K
+Quang Anh needs to pay Ngoc: 100K
+Nam needs to pay Hieu: 140K
+Nam needs to pay Ngoc: 400K
+Hieu needs to pay Phuong: 100K
+Yen needs to pay Ngoc: 640K
+Yen needs to pay Phuong: 320K
+Phuong needs to pay Nhan: 50K
+Hieu needs to pay Yen: 1200K
+Nam needs to pay Yen: 800K
+Phuong needs to pay Nam: 20K

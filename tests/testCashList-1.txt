@@ -1,0 +1,12 @@
+Hieu needs to pay Dung: 500K
+Hieu needs to pay Duong: 100K
+Hieu needs to pay Huyen: 10K
+Dung needs to pay Duong: 30K
+Dung needs to pay Huyen: 1000K
+Duong needs to pay Hieu: 40K
+Quang needs to pay Tuan Anh: 200K
+Linh needs to pay Tuan Anh: 120K
+Linh needs to pay Quang: 50K
+Huyen needs to pay Quang: 200K
+Huyen needs to pay Linh: 1200K
+Tuan Anh needs to pay Hieu: 2000K

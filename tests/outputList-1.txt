@@ -1,0 +1,6 @@
+Tuan Anh needs to pay Hieu: 1430K
+Huyen needs to pay Linh: 1030K
+Dung needs to pay Quang: 530K
+Tuan Anh needs to pay Quang: 250K
+Huyen needs to pay Duong: 90K
+Huyen needs to pay Quang: 70K
